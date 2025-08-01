@@ -196,7 +196,7 @@ http://localhost:3000
 * Exposing container ports
 * Live development via volume mounts
 
-```
+---
 
 ## 👨‍💻 Author
 
@@ -209,7 +209,4 @@ http://localhost:3000
 - 🐳 [Docker Hub](https://hub.docker.com/u/avinashtale99)
 - 📷 [Instagram](https://www.instagram.com/avinash_tale_patil)
 - 🌐 [Website](https://avinashtale99.github.io/AvinashRepo/)
-
----
-
 

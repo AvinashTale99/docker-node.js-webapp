@@ -35,7 +35,7 @@ node -v # Should print "v22.17.0".
 npm -v # Should print "10.9.2".
 ```
 ```
-git clone https://github.com/atulkamble/docker-nodejs-webapp.git
+git clone https://github.com/AvinashTale99/docker-node.js-webapp.git
 cd docker-nodejs-webapp
 node index.js
 
@@ -195,4 +195,21 @@ http://localhost:3000
 * Managing containers using **Docker Compose**
 * Exposing container ports
 * Live development via volume mounts
+
+```
+
+## 👨‍💻 Author
+
+**Avinash Tale**
+
+### 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/avinash-tale-3348b7217/)
+- 🐙 [GitHub](https://github.com/AvinashTale99)
+- 🐳 [Docker Hub](https://hub.docker.com/u/avinashtale99)
+- 📷 [Instagram](https://www.instagram.com/avinash_tale_patil)
+- 🌐 [Website](https://avinashtale99.github.io/AvinashRepo/)
+
+---
+
 
